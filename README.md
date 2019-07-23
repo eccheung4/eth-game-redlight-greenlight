@@ -24,3 +24,6 @@ player scores
    a. Red Light, take difference between monitor and player number to get amount to move
    b. Green Light, move full value of dice roll
 3. Repeat from 1 til someone passes monitor and wins
+
+## Resources
+1. Making Sense of State Channels Part 2: How do you use state channels in a dapp? https://medium.com/celer-network/c-l4-8525ffc2d5f
